@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Test</string>
+
+    <!-- 医疗-->
+    <string name="out_tab">出库</string>
+    <string name="warehousing_tab">入库</string>
+    <string name="my_tab_title">我的</string>
+    <string name="warehousing_title">请您选择入库的方式</string>
+
+
+
+</resources>

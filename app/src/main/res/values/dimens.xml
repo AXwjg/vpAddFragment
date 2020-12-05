@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text15">15dp</dimen>
+    <dimen name="text16">16dp</dimen>
+    <dimen name="text18">18dp</dimen>
+    <dimen name="text23">23dp</dimen>
+    <dimen name="text25">25dp</dimen>
+
+    <!--layout_title-->
+    <dimen name="layout_title_h">50dp</dimen>
+    <dimen name="layout_title_ps_pe">10dp</dimen>
+    <dimen name="company_loge_w">75dp</dimen>
+    <dimen name="company_loge_h">30dp</dimen>
+    <dimen name="company_tv_me">10dp</dimen>
+
+    <!--activity_main-->
+    <dimen name="company_research_tv_mb">10dp</dimen>
+    <dimen name="line_ms_me">50dp</dimen>
+    <dimen name="line_mt">60dp</dimen>
+    <dimen name="home_clearance_mt">10dp</dimen>
+    <dimen name="receipt_title_mt">60dp</dimen>
+    <dimen name="re_turn_rl_ms">20dp</dimen>
+    <dimen name="type_other_rl_ms">20dp</dimen>
+
+    <!--activity_login-->
+    <dimen name="ic_bg_iv_mt">65dp</dimen>
+
+</resources>

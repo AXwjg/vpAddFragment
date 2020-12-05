@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD800</color>
+    <color name="colorPrimaryDark">#FFD800</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="title_bg">#D81B60</color>
+    <color name="content_title_bg">#191919</color>
+    <color name="main_bg">#424242</color>
+
+    <color name="main_color">#FFD800</color>
+    <color name="main_color2">#FFC107</color>
+    <color name="main_bs_color">#fffff3</color>
+    <color name="infection_bg">#FFDB63</color>
+    <color name="traumatic_bg">#E04E4E</color>
+    <color name="medicinal_bg">#1B8DF9</color>
+    <color name="pathological_bg">#D68834</color>
+    <color name="chemical_bg">#BF34ED</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="translucent_half">#40000000</color>
+    <color name="line">#20000000</color>
+    <color name="translucent">#80000000</color>
+    <color name="black">#191919</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_half">#60FFFFFF</color>
+
+    <color name="green">#31B816</color>
+    <color name="light_green">#8ED531</color>
+    <color name="blue">#217DE9</color>
+    <color name="light_blue">#34B9F0</color>
+    <color name="orange">#FF916A</color>
+    <color name="light_orange">#FBA65E</color>
+    <color name="integral">#F69E2C</color>
+
+    <color name="on_site_shipping">#5897e5</color>
+    <color name="home_delivery">#1aad58</color>
+    <color name="ossa_bg">#F5F5F5</color>
+    <color name="order_rv_bg">#F5F5F5</color>
+    <color name="order_item_tc">#676767</color>
+    <color name="order_gray_tc">#ADADAD</color>
+    <color name="weighing_bg">#F3FAF2</color>
+
+    <color name="collect_item_tc">#999999</color>
+    <color name="collect_item_bg">#f5f5f5</color>
+
+
+
+</resources>
